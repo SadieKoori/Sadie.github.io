@@ -11,7 +11,7 @@ active: about
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
 You can find the meaning and originate of topics :
-{{site.twitter_username}} /{{site.weibo_username}}
+{{site.twitter_username}}[weibo.com/3626604222/profile?profile_ftype=1&is_all=1#_0](https://weibo.com/3626604222/profile?profile_ftype=1&is_all=1#_0) /{{site.weibo_username}}
 
 
 You can find the source code for Jekyll at
